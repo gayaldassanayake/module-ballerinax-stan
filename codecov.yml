@@ -1,5 +1,5 @@
 fixes:
-  - "ballerina/stan/*/::stan-ballerina/"
+  - "ballerinax/stan/*/::stan-ballerina/"
 
 ignore:
   - "**/tests"
